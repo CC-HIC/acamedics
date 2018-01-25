@@ -5,7 +5,7 @@ Shiny or similar development for AcaMedics
 Below is a list of some areas that are important to develop on your journal into data science. These are aimed at someone who is interested and motivated, but from a clinical background, and so not formally trained in these methods. I have inlcuded links to amazon for books, but mostly just for reference. Ask for a link to a shared dropbox folder for electronic materials for the majority of them. We keep other copies in the lab which we are happy for you to borrow (please ask first).
 
 ## Maths
-- The foundation of data science is rooted in probability and statistics. As clinicians this can be extremely limiting in the long run as most of us have at most an A-level in maths (often from a very long time ago). Key areas to focus on are:
+- The foundation of data science is rooted in probability and statistics. As clinicians this can be extremely limiting in the long run as we typically have at most an A-level in maths (often from a very long time ago). Key areas to focus on are:
   - Calculus (Integration and Differentiation)
   - Probability
   - Linear algebra
@@ -18,7 +18,7 @@ The following resources are extremely useful:
 - Introduction to Probability (https://www.amazon.co.uk/Introduction-Probability-Chapman-Statistical-Science-ebook/dp/B00MMOJ19I/ref=sr_1_3?ie=UTF8&qid=1516904017&sr=8-3&keywords=introduction+to+probability) the companion text book to the above course
 - Khan academy (www.khanacademy.com)
 
-Other researches for developing in statistics:
+Other resources for developing in statistics:
 - Statistical rethinking (https://www.amazon.co.uk/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445/ref=sr_1_1?ie=UTF8&qid=1516907232&sr=8-1&keywords=statistical+rethinking). This book is a full course in bayesian statistics. It takes a narrative approach, and goes easy on the maths. You'll get a lot more out of it if you have covered the STAT110 course first.
 
 ## Learning R
