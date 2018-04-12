@@ -7,7 +7,7 @@ Below is a comprehensive path to learning data science, focussed around the R st
 There is no shortcut to advancing in this field. Find a project, something that you feel passionate about, and get stuck in; learn by doing. A fantastic reasource to start is the tidyverse and R for data science, availible for free online here: http://r4ds.had.co.nz
 
 # Skill development (The Long Version)
-Below is a list of some areas that are important to develop on your journal into data science. These are aimed at someone who is interested and motivated, but from a clinical background, and so not formally trained in these methods. I have inlcuded links to amazon for books, but mostly just for reference. Ask for a link to a shared dropbox folder for electronic materials for the majority of them, plenty of others are published online for free. We also keep other copies in the lab which we are happy for you to borrow (please ask first).
+Below is a list of some areas that are important to develop on your journey into data science. These are aimed at someone who is interested and motivated, but from a clinical background, and so not formally trained in these methods. I have inlcuded links to amazon for books, but mostly just for reference. Ask for a link to a shared dropbox folder for electronic materials for the majority of them, plenty of others are published online for free. We also keep other copies in the lab which we are happy for you to borrow (please ask first).
 
 ## Maths
 - The foundation of data science is rooted in probability and statistics. As clinicians this can be extremely limiting in the long run as we typically have at most an A-level in maths (often from a very long time ago). Key areas to focus on are:
@@ -27,7 +27,7 @@ Other resources for developing in statistics:
 - Statistical rethinking (https://www.amazon.co.uk/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445/ref=sr_1_1?ie=UTF8&qid=1516907232&sr=8-1&keywords=statistical+rethinking). This book is a full course in bayesian statistics. It takes a narrative approach, and goes easy on the maths. You'll get a lot more out of it if you have covered the STAT110 course first.
 
 ## Learning R
-- Datacamp.com is an excellent resource that uses game theory for learning the basics of R. Beyond learning how R works, it's use can be rather limited as it teaches a fairly shallow understanding of the topic. After you have got to grips with the basics, move away and start to get hands on with your own project
+- Datacamp.com is an excellent resource that uses gamification for learning the basics of R. Beyond learning how R works, it's use can be rather limited as it teaches a fairly shallow understanding of the topic. After you have got to grips with the basics, move away and start to get hands on with your own project
 - Learn tidy data practices here https://www.tidyverse.org/
 - R for data science http://r4ds.had.co.nz/
 - Advanced R (https://www.amazon.co.uk/Advanced-Chapman-Hall-Hadley-Wickham/dp/1466586966/ref=sr_1_1?s=books&ie=UTF8&qid=1516907344&sr=1-1&keywords=advanced+R). Really excellent book by Hadley Wickham (a don in the R universe). Great to help push your programming to the next level.
@@ -38,4 +38,4 @@ Other resources for developing in statistics:
 - William E. Shotts has written an ebook on unix which is open source and a great overview of how unix works http://linuxcommand.org/tlcl.php
 
 ## Lab Meetings
-- We meet every other thursday morning to discuss ongoing projects. Everyone is welcome to attend and watch or present. No matter the size, scale or complexity, we would encourge you to present any work as a way to crowd source solutions to problems and figure out what the next step might be.
+- We meet every Monday morning to discuss ongoing projects. Everyone is welcome to attend and watch or present. No matter the size, scale or complexity, we would encourge you to present any work as a way to crowd source solutions to problems and figure out what the next step might be.
