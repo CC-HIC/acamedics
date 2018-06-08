@@ -11,7 +11,7 @@ Below is a list of some areas that are important to develop on your journey into
 
 ## Maths
 - The foundation of data science is rooted in probability and statistics. As clinicians this can be extremely limiting in the long run as we typically have at most an A-level in maths (often from a very long time ago). Key areas to focus on are:
-  - Calculus (Integration and Differentiation)
+  - Calculus
   - Probability
   - Linear algebra
   - Set theory and statistical notation
@@ -22,16 +22,32 @@ The following resources are extremely useful:
   - The stategic practice is availible here (https://projects.iq.harvard.edu/stat110/home)
 - Introduction to Probability (https://www.amazon.co.uk/Introduction-Probability-Chapman-Statistical-Science-ebook/dp/B00MMOJ19I/ref=sr_1_3?ie=UTF8&qid=1516904017&sr=8-3&keywords=introduction+to+probability) the companion text book to the above course
 - Khan academy (www.khanacademy.com)
+- 3Blue1Brown (https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
-Other resources for developing in statistics:
+Other resources for statistics:
+- Discovering statistics using R; Field. A good high level overview with practical applicatons in R.
 - Statistical rethinking (https://www.amazon.co.uk/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445/ref=sr_1_1?ie=UTF8&qid=1516907232&sr=8-1&keywords=statistical+rethinking). This book is a full course in bayesian statistics. It takes a narrative approach, and goes easy on the maths. You'll get a lot more out of it if you have covered the STAT110 course first.
 
-## Learning R
+### Online Courses
+There has been an explosion in the availibility of online courses. They vary from free to expensive, and their quality is often not related to cost. Here we compile a list of the best:
+
+|             Name            |           Subject           |                                   Website                                   | Cost | Rating      |
+|:---------------------------:|:---------------------------:|:---------------------------------------------------------------------------:|:----:|-------------|
+|   Essence of Linear Algebra |              Linear Algebra |          https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists | Free | 5/5         |
+| The World of Maths          | General Maths at all levels | www.khanacademy.com                                                         | Free | 5/5         |
+| Machine Learning - Coursera | ML                          | https://www.coursera.org/learn/machine-learning                             | £58  | Recommended |
+| Maths for Machine Learning  | Linear Algebra              | https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome | £48  | 4/5         |
+
+
+## R
 - Datacamp.com is an excellent resource that uses gamification for learning the basics of R. Beyond learning how R works, it's use can be rather limited as it teaches a fairly shallow understanding of the topic. After you have got to grips with the basics, move away and start to get hands on with your own project
 - Learn tidy data practices here https://www.tidyverse.org/
 - R for data science http://r4ds.had.co.nz/
 - Advanced R (https://www.amazon.co.uk/Advanced-Chapman-Hall-Hadley-Wickham/dp/1466586966/ref=sr_1_1?s=books&ie=UTF8&qid=1516907344&sr=1-1&keywords=advanced+R). Really excellent book by Hadley Wickham (a don in the R universe). Great to help push your programming to the next level.
 - Data Science for Doctors: This is a shameless plug for our own course that we run at the RCoA every few months. It provides a comprehensive introduction to R for the uninitiated.
+
+## Python
+- We need some recommendations here
 
 ## UNIX and VIM
 - vim adventures (www.vimadventures.com) is a brilliant way to learn your way around vim (a unix based text editor).
